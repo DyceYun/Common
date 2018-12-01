@@ -1,14 +1,13 @@
 package com.wys.util;
 
 import java.util.Map;
+import java.util.function.BiConsumer;
 
 /**
  * <p>集合工具类
  * <br>
  * @author Wanys
  * @version 1.0
- * @createTime 2018/12/1
- * @ChangeLog
  */
 public class MapUtil {
     /**
